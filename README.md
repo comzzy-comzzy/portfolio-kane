@@ -2,6 +2,10 @@
 
 Static portfolio website for Kane, deployed with Vercel.
 
+## Production
+
+https://portfolio-kane.vercel.app/
+
 ## Local preview
 
 Run a static HTTP server from the project directory:
